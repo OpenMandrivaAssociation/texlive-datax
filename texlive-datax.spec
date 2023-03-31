@@ -1,6 +1,6 @@
 Name:		texlive-datax
 Version:	61772
-Release:	1
+Release:	2
 Summary:	Import individual data from script files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datax
