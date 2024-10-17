@@ -3,7 +3,7 @@ Version:	61772
 Release:	2
 Summary:	Import individual data from script files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datax
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datax
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datax.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datax.doc.r%{version}.tar.xz
